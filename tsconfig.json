@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "rootDir": "./Lesson 1/src",
-    "outDir": "./dist",
+    "outDir": "./Lesson 1/dist",
     "allowJs": false,
     "allowSyntheticDefaultImports": true,
     "emitDecoratorMetadata": true,
